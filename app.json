@@ -21,7 +21,8 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.praneethkulukuri.ReactNativeMatiks"
     },
     "web": {
       "favicon": "./assets/favicon.png"
