@@ -4,6 +4,14 @@
 
 This project is the implemented solution for the **UI Developer Intern Assignment**. It targets 60fps animations exclusively dispatched on the UI-thread without bridging blocking logic on the JavaScript thread, following modern React Native paradigms.
 
+## 📸 App Previews
+*(Please place your screenshots in the `assets/` folder named `screen1.png` and `screen2.png`!)*
+
+<p align="center">
+  <img src="./assets/screen1.png" width="250" alt="Score Reveal State 1" style="margin-right: 15px;" />
+  <img src="./assets/screen2.png" width="250" alt="Completed Reveal State 2" />
+</p>
+
 ---
 
 ## 🎯 Problem Statement & Goal
